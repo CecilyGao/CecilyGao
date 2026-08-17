@@ -65,11 +65,13 @@ Emails:
 
 ### 💖 Support
 
-If you like my work, consider buying me a coffee!  
-<a href="https://short.wailian2.cn/l/dOQMTiD2CnE88S6J" target="_blank">
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-</a>
+If you like my work, consider buying me a coffee! 
 
-<a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
-  <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://short.wailian2.cn/l/dOQMTiD2CnE88S6J" target="_blank">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+  <a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
+    <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
+  </a>
+</p>
