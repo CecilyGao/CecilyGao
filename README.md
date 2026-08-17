@@ -1,27 +1,13 @@
-<!--
-Hi there! This is a template for your personal README.
-Replace the placeholder text (inside brackets or ALL CAPS) with your own information.
-You can also remove or add sections as you like.
--->
-
-<h1 align="center">Hi 👋, I'm [YOUR NAME]</h1>
-<h3 align="center">[YOUR TAGLINE – e.g., Full-Stack Developer | Open Source Enthusiast | Problem Solver]</h3>
-
-<p align="center">
-  <img src="[LINK TO YOUR AVATAR OR BANNER IMAGE]" alt="banner" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm CecilyGao / AintCecily</h1>
+<h3 align="center">Undergraduate of Nanjing University | Plugin Developer | Problem Solver</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[PROJECT NAME / AREA]**
-- 🌱 I’m currently learning **[TECHNOLOGY / SKILL]**
-- 👯 I’m looking to collaborate on **[TYPE OF PROJECTS]**
-- 🤔 I’m looking for help with **[SPECIFIC TOPIC (if any)]**
-- 💬 Ask me about **[TOPICS YOU KNOW WELL]**
-- 📫 How to reach me: **[EMAIL / SOCIAL LINK]**
-- ⚡ Fun fact: **[SOMETHING INTERESTING ABOUT YOU]**
+- 🔭 I’m currently working on **plugins for Astrbot**
+- 🌱 I’m currently learning **Biology and AI for Biology**
+- 💬 Ask me about **anything**
 
 ---
 
@@ -30,41 +16,34 @@ You can also remove or add sections as you like.
 <p align="left">
   <!-- Add icons for your tech stack. You can use devicons or simple shields. -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <!-- Add/remove badges as needed. You can generate more at https://shields.io/ -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<!-- Alternatively, list them as text: -->
-<!--
-- **Languages:** Python, JavaScript, TypeScript, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, AWS, Terraform
--->
+- **Languages:** Python (for programming)
+- **Tools:** Git, Docker, Linux
+
+If you are curious about my spoken languages, I'd prefer Chinese (mother tongue), English (skilled), Russian (not skilled enough) and Spanish (currently learning).
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical" alt="GitHub Streak" />
-</p>
+My GitHub account has been suspended. Use Gitee and Gitcode instead.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![star](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/badge/star.svg?theme=dark)](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics)
+[![fork](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/badge/fork.svg?theme=dark)](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/members)
+[![Followers](https://gitcode-badge.stevending1st.cc/api/badge/gitcode/user/CecilyGao?metric=followers)](https://gitcode.com/CecilyGao)
+[![Repositories](https://gitcode-badge.stevending1st.cc/api/badge/gitcode/user/CecilyGao?metric=repos)](https://gitcode.com/CecilyGao?tab=repositories)
+[![Organizations](https://gitcode-badge.stevending1st.cc/api/badge/gitcode/user/CecilyGao?metric=orgs)](https://gitcode.com/CecilyGao)
 
 ---
 
 ### 🏆 Notable Projects
 
-- **[Project Name 1](LINK)** – Brief description (e.g., A web app for X that does Y)
-- **[Project Name 2](LINK)** – Brief description
-- **[Project Name 3](LINK)** – Brief description
+- **[Project Name 1](LINK)** – Monitor user activities, repository events (Issues, Commits, Releases), and organization project updates via the GitHub API.
+- **[Project Name 2](LINK)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
+- **[Project Name 3](LINK)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
 
 > For more, check out my [repositories](https://github.com/[YOUR_USERNAME]?tab=repositories).
 
