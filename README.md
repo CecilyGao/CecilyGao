@@ -31,8 +31,8 @@ If you are curious about my spoken languages, I'd prefer Chinese (mother tongue)
 
 My GitHub account has been suspended. Use Gitee and Gitcode instead.
 
-[![star](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/badge/star.svg?theme=dark)](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics)
-[![fork](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/badge/fork.svg?theme=dark)](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/members)
+[![star](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics/badge/star.svg?theme=dark)](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics)
+[![fork](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics/badge/fork.svg?theme=dark)](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics/members)
 
 ---
 
@@ -42,7 +42,7 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
 - **[astrbot_plugin_gbif_search](https://gitcode.com/CecilyGao/astrbot_plugin_gbif_search)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
 - **[astrbot_plugin_inaturalist_search](https://gitcode.com/CecilyGao/astrbot_plugin_inaturalist_search)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
 
-> For more, check out my repositories on [Gitee](https://gitee.com/AintCecily) or [Gitcode](https://gitcode.com/user/CecilyGao).
+> For more, check out my repositories on [Gitee](https://gitee.com/CecilyGao) or [Gitcode](https://gitcode.com/user/CecilyGao).
 ---
 
 ### 📫 Connect with Me
