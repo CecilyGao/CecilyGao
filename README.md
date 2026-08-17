@@ -68,12 +68,9 @@ Emails:
 ### 💖 Support
 
 If you like my work, consider buying me a coffee!  
-<a href="https://u.wechat.com/EI5IS90SefcZp47fYSwcQ68?s=4" target="_blank">
+<a href="https://short.wailian2.cn/l/dOQMTiD2CnE88S6J" target="_blank">
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </a>
 <a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
   <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=qq&logoColor=white" />
 </a>
-
-- WeChat: PrivetYaBei
-- Tencent QQ: 1527519027
