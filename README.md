@@ -72,5 +72,5 @@ If you like my work, consider buying me a coffee!
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </a>
 <a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
-  <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=qq&logoColor=white" />
+  <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
 </a>
