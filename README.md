@@ -41,56 +41,29 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
 
 ### 🏆 Notable Projects
 
-- **[Project Name 1](LINK)** – Monitor user activities, repository events (Issues, Commits, Releases), and organization project updates via the GitHub API.
-- **[Project Name 2](LINK)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
-- **[Project Name 3](LINK)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
+- **[astrbot_plugin_github_dynamics](https://gitcode.com/CecilyGao/astrbot_plugin_github_dynamics)** – Monitor user activities, repository events (Issues, Commits, Releases), and organization project updates via the GitHub API.
+- **[astrbot_plugin_gbif_search](https://gitcode.com/CecilyGao/astrbot_plugin_gbif_search)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
+- **[astrbot_plugin_inaturalist_search](https://gitcode.com/CecilyGao/astrbot_plugin_inaturalist_search)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
 
-> For more, check out my [repositories](https://github.com/[YOUR_USERNAME]?tab=repositories).
-
+> For more, check out my [repositories](https://gitee.com/AintCecily).
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:1527519027@qq.com" target="_blank">
+    <img src="https://img.shields.io/badge/-QQ%20Mail-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[YOUR_TWITTER]" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:231505002@nju.edu.cn" target="_blank">
+    <img src="https://img.shields.io/badge/-NJU%20Mail-4B0082?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
-  <a href="https://dev.to/[YOUR_DEV]" target="_blank">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add other socials as needed -->
 </p>
-
----
-
-### 📝 Latest Blog Posts (optional)
-
-<!-- If you have a blog or dev.to, you can embed an RSS feed or list posts manually -->
-- [Title of Post 1](LINK) – *Date*
-- [Title of Post 2](LINK) – *Date*
-- [Title of Post 3](LINK) – *Date*
 
 ---
 
 ### 💖 Support
 
 If you like my work, consider buying me a coffee!  
-<a href="https://www.buymeacoffee.com/[YOUR_USERNAME]">
-  <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<a href="https://u.wechat.com/PrivetYaBei" target="_blank">
+  <img src="https://img.shields.io/badge/-%E5%8A%A0%E5%BE%AE%E4%BF%A1-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </a>
-
----
-
-<!-- Optional: animated footer or visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-*Last updated: [DATE] – This README is a work in progress!*
