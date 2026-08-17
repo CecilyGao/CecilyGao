@@ -64,6 +64,7 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
 ### 💖 Support
 
 If you like my work, consider buying me a coffee!  
-<a href="https://u.wechat.com/PrivetYaBei" target="_blank">
-  <img src="https://img.shields.io/badge/-%E5%8A%A0%E5%BE%AE%E4%BF%A1-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+<a href="https://u.wechat.com/EI5IS90SefcZp47fYSwcQ68?s=4" target="_blank">
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+</a>
 </a>
