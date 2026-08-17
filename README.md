@@ -59,6 +59,10 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
   </a>
 </p>
 
+Emails:
+- 1527519027@qq.com
+- 231505002@smail.nju.edu.cn
+
 ---
 
 ### 💖 Support
@@ -70,3 +74,6 @@ If you like my work, consider buying me a coffee!
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=1527519027" target="_blank">
   <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=qq&logoColor=white" />
 </a>
+
+- WeChat: PrivetYaBei
+- Tencent QQ: 1527519027
