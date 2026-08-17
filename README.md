@@ -33,9 +33,6 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
 
 [![star](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/badge/star.svg?theme=dark)](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics)
 [![fork](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/badge/fork.svg?theme=dark)](https://gitee.com/AintCecily/astrbot_plugin_github_dynamics/members)
-[![Followers](https://gitcode-badge.stevending1st.cc/api/badge/gitcode/user/CecilyGao?metric=followers)](https://gitcode.com/CecilyGao)
-[![Repositories](https://gitcode-badge.stevending1st.cc/api/badge/gitcode/user/CecilyGao?metric=repos)](https://gitcode.com/CecilyGao?tab=repositories)
-[![Organizations](https://gitcode-badge.stevending1st.cc/api/badge/gitcode/user/CecilyGao?metric=orgs)](https://gitcode.com/CecilyGao)
 
 ---
 
@@ -54,6 +51,7 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
   <a href="mailto:1527519027@qq.com" target="_blank">
     <img src="https://img.shields.io/badge/-QQ%20Mail-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
   </a>
+
   <a href="mailto:231505002@nju.edu.cn" target="_blank">
     <img src="https://img.shields.io/badge/-NJU%20Mail-4B0082?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
@@ -71,6 +69,7 @@ If you like my work, consider buying me a coffee!
 <a href="https://short.wailian2.cn/l/dOQMTiD2CnE88S6J" target="_blank">
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </a>
+
 <a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
   <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
 </a>
