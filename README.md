@@ -45,7 +45,7 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
 - **[astrbot_plugin_gbif_search](https://gitcode.com/CecilyGao/astrbot_plugin_gbif_search)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
 - **[astrbot_plugin_inaturalist_search](https://gitcode.com/CecilyGao/astrbot_plugin_inaturalist_search)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
 
-> For more, check out my [repositories](https://gitee.com/AintCecily).
+> For more, check out my repositories on [Gitee](https://gitee.com/AintCecily) or [Gitcode](https://gitcode.com/user/CecilyGao).
 ---
 
 ### 📫 Connect with Me
