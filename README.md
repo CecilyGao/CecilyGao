@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CecilyGao / AintCecily</h1>
+<h1 align="center">Hi 👋, I'm Cecily</h1>
 <h3 align="center">Undergraduate of Nanjing University | Plugin Developer | Problem Solver</h3>
 
 ---
