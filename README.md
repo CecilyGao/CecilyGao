@@ -5,8 +5,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **plugins for Astrbot**
-- 🌱 I’m currently learning **Biology and AI for Biology**
+- 🔭 I'm currently working on **plugins for Astrbot**
+- 🌱 I'm currently learning **Biology and AI for Biology**
 - 💬 Ask me about **anything**
 
 ---
@@ -51,9 +51,13 @@ My GitHub account has been suspended. Use Gitee and Gitcode instead.
   <a href="mailto:1527519027@qq.com" target="_blank">
     <img src="https://img.shields.io/badge/-QQ%20Mail-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
   </a>
-
+   
   <a href="mailto:231505002@nju.edu.cn" target="_blank">
     <img src="https://img.shields.io/badge/-NJU%20Mail-4B0082?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+  
+  <a href="https://blog.csdn.net/CecilyGao" target="_blank">
+  <img src="https://img.shields.io/badge/-CSDN-cf2730?style=for-the-badge&logo=csdn&logoColor=white" />
   </a>
 </p>
 
@@ -71,6 +75,7 @@ If you like my work, consider buying me a coffee!
   <a href="https://short.wailian2.cn/l/dOQMTiD2CnE88S6J" target="_blank">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
+   
   <a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
     <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
   </a>
