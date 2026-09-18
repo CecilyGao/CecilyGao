@@ -27,22 +27,19 @@ If you are curious about my spoken languages, I'd prefer Chinese (mother tongue)
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Git Stats
 
-My GitHub account has been suspended. Use Gitee and Gitcode instead.
-
-[![star](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics/badge/star.svg?theme=dark)](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics)
-[![fork](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics/badge/fork.svg?theme=dark)](https://gitee.com/CecilyGao/astrbot_plugin_github_dynamics/members)
+I have accounts on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao) and [Gitcode](https://gitcode.com/user/CecilyGao) using the same username. You can check my dynamics anywhere you want.
 
 ---
 
 ### 🏆 Notable Projects
 
-- **[astrbot_plugin_github_dynamics](https://gitcode.com/CecilyGao/astrbot_plugin_github_dynamics)** – Monitor user activities, repository events (Issues, Commits, Releases), and organization project updates via the GitHub API.
-- **[astrbot_plugin_gbif_search](https://gitcode.com/CecilyGao/astrbot_plugin_gbif_search)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
-- **[astrbot_plugin_inaturalist_search](https://gitcode.com/CecilyGao/astrbot_plugin_inaturalist_search)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
+- **[astrbot_plugin_github_dynamics](https://github.com/CecilyGao/astrbot_plugin_github_dynamics)** – Monitor user activities, repository events (Issues, Commits, Releases), and organization project updates via the GitHub API.
+- **[astrbot_plugin_gbif_search](https://github.com/CecilyGao/astrbot_plugin_gbif_search)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
+- **[astrbot_plugin_inaturalist_search](https://github.com/CecilyGao/astrbot_plugin_inaturalist_search)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
 
-> For more, check out my repositories on [Gitee](https://gitee.com/CecilyGao) or [Gitcode](https://gitcode.com/user/CecilyGao).
+> For more, check out my repositories on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao) or [Gitcode](https://gitcode.com/user/CecilyGao).
 ---
 
 ### 📫 Connect with Me
@@ -72,10 +69,6 @@ Emails:
 If you like my work, consider buying me a coffee! 
 
 <p align="left">
-  <a href="https://short.wailian2.cn/l/dOQMTiD2CnE88S6J" target="_blank">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  </a>
-   
   <a href="https://qm.qq.com/q/XiDwKKWUwc" target="_blank">
     <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" />
   </a>
