@@ -27,7 +27,7 @@ If you are curious about my spoken languages, I'd prefer Chinese (mother tongue)
 
 ---
 
-### 📈 Git Stats
+### 📈 Account Stats
 
 I have accounts on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao), [Gitcode](https://gitcode.com/CecilyGao) and [CSDN](https://blog.csdn.net/CecilyGao) using the same username. You can check my dynamics anywhere you want.
 
