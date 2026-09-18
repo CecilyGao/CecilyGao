@@ -29,7 +29,22 @@ If you are curious about my spoken languages, I'd prefer Chinese (mother tongue)
 
 ### 📈 Git Stats
 
-I have accounts on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao) and [Gitcode](https://gitcode.com/user/CecilyGao) using the same username. You can check my dynamics anywhere you want.
+I have accounts on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao), [Gitcode](https://gitcode.com/user/CecilyGao) and [CSDN](https://blog.csdn.net/CecilyGao) using the same username. You can check my dynamics anywhere you want.
+
+<p align="left">
+  <a href="https://github.com/CecilyGao" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitee.com/AintCecily" target="_blank">
+    <img src="https://img.shields.io/badge/-Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
+  </a>
+  <a href="https://gitcode.com/user/CecilyGao" target="_blank">
+    <img src="https://img.shields.io/badge/-GitCode-C71D23?style=for-the-badge" />
+  </a>
+  <a href="https://blog.csdn.net/CecilyGao" target="_blank">
+    <img src="https://img.shields.io/badge/-CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
+</p>
 
 ---
 
