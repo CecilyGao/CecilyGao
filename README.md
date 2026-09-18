@@ -54,7 +54,7 @@ I have accounts on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee
 - **[astrbot_plugin_gbif_search](https://github.com/CecilyGao/astrbot_plugin_gbif_search)** – An AstrBot plugin based on the GBIF API, supporting species taxonomy queries and occurrence record searches. It features fuzzy keyword matching, command abbreviations, and can return results as either text or images.
 - **[astrbot_plugin_inaturalist_search](https://github.com/CecilyGao/astrbot_plugin_inaturalist_search)** – An AstrBot plugin based on the iNaturalist API, supporting species taxonomy queries and observation record searches.
 
-> For more, check out my repositories on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao) or [Gitcode](https://gitcode.com/user/CecilyGao).
+> For more, check out my repositories on [GitHub](https://github.com/CecilyGao), [Gitee](https://gitee.com/CecilyGao) or [Gitcode](https://gitcode.com/CecilyGao).
 ---
 
 ### 📫 Connect with Me
